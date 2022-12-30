@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "font";
+  src: url(../public/font/ایرانسل\ مدیوم\ .ttf);
+}
+
+* {
+  font-family: "font";
+  direction: rtl;
+}
